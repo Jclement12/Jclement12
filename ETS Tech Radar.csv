@@ -1,0 +1,7 @@
+Column1,Column2,Column3,Column4,Column5
+Name,Ring,Quadrant,IsNew,Description
+MFA for Windows,Adopt,Theme: Zero Trust,TRUE,<p> Smaple data
+Cloud Proxy,Adopt,Theme: Zero Trust,TRUE,<p> Smaple data
+Cloud Security,POC,Theme: Zero Trust,TRUE,
+VDI,Adopt,Theme: Enterprise Digital Experience,TRUE,
+Puppet,Adopt,Theme: SDDC,TRUE,
